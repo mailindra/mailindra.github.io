@@ -1,2 +1,2 @@
 # mailindra.github.io
-Mailindra Data Science Blog
+Mailindra Software Engineering Blog
